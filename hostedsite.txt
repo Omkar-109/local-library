@@ -1,0 +1,2 @@
+https://github.com/CsExabyte/junit-test.git
+https://github.com/CsExabyte/sel_isa_driver.git
